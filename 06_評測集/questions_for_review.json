@@ -18,7 +18,7 @@
     },
     "rule_baseline": {
       "primary": "FIBA Official Basketball Rules 2024 v1.0（2024-10-01 生效）",
-      "official_interpretations": "2022 規則官方解釋 2023.06.01 v3.0a（本機可用的最新一份；尚無 2024 版官方解釋）",
+      "official_interpretations": "2022 規則官方解釋 2023.06.01 v3.0a（本機現有的一份；FIBA 已發布 2024 版官方解釋，本專案尚未核對）",
       "last_reviewed": "2026-11-14",
       "update_policy": "規則會持續更新。每次 FIBA 發布新版規則或官方解釋，須更新此區塊並重新審核標示 version_conflict 或引用官方解釋的題目。"
     },
