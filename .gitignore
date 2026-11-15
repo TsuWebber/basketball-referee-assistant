@@ -1,0 +1,17 @@
+# 第三方版權文件：不上傳，請依 SOURCES.md 自行取得
+01_規則與判例/
+02_IOT_個人執法技巧/
+03_2PO_二人裁判法/
+04_3PO_三人裁判法/
+# 由上述 PDF 轉出的全文，同樣不上傳；用 tools/ocr_pdf.py 重建
+OCR_文字檔/
+# 本機設定與系統檔
+.claude/settings.local.json
+desktop.ini
+*.pyc
+__pycache__/
+# 評測集：含原文引用的完整證據與原始作答／評分輸出，僅留本機
+06_評測集/_private/
+06_評測集/REVIEW_REPORT.md
+06_評測集/results_*/batch_*.json
+06_評測集/results_*/eval_grades*.json
